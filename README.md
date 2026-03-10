@@ -1,1 +1,1 @@
-# Hospital-Appointment-System
+The Hospital Appointment System is a Spring Boot based REST API application that helps manage hospital appointments. Patients can book appointments, doctors can approve or reject them, and administrators can manage users and doctors.
